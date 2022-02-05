@@ -4,30 +4,421 @@ title: Calendar
 uid: e4eedf7c-ade8-c7c7-45bd-12b342a50ff7
 ---
 
-| Ses # | Themes | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Haunting {{< br >}}{{< br >}} Exterior vs. Interior (Outside vs. Inside) {{< br >}}{{< br >}} Escape vs. Entrance {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} The Flaneur {{< br >}}{{< br >}} Close Reading, Slow Reading {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Man of the Crowd / Man of the World {{< br >}}{{< br >}} The Presence of the Past / Palimpsests {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Panopticism {{< br >}}{{< br >}} Metonymy {{< br >}}{{< br >}} Asyndeton {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Literary Snow and Rain Days | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} _Saturday_ and _Mrs. Dalloway_: A Tale of Two Openings {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Post 9/11 and Trauma Ethics {{< br >}}{{< br >}} Failures, Triumphs, and Limits of the Imagination {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Security and Invasion {{< br >}}{{< br >}} Psychological and Architextural Interiority {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Brain/Mind/City: Networks and Systems | &nbsp; |
-| 11 | Re-Reading Day | Re-Reading Assignment #1 Due |
-| 12 | Geography and Representation | &nbsp; |
-| 13 | Haunting and Estrangement | Paper #1 Due |
-| 14 |  {{< br >}}{{< br >}} Defamiliarization {{< br >}}{{< br >}} Intersectionality: Race, Class, and Gender {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Vantage Points {{< br >}}{{< br >}} Race and Space {{< br >}}{{< br >}} Race and Representation {{< br >}}{{< br >}} The Uses of Genre {{< br >}}{{< br >}}  | [MIT Senseable City Lab](http://senseable.mit.edu/) Class Visit |
-| 16 |  {{< br >}}{{< br >}} Love Stories and Romance Plots {{< br >}}{{< br >}} Home, Homeland, and Homecoming {{< br >}}{{< br >}}  | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Windows {{< br >}}{{< br >}} Stereoscopic {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | Frames, Windows, and Cosmopolitanism | &nbsp; |
-| 19 | Inclusion and Exclusion | Paper #2 Due |
-| 20 |  {{< br >}}{{< br >}} Glitches, Cuts, Tears, and Splices {{< br >}}{{< br >}} A World Re-Arranged {{< br >}}{{< br >}} Back to the Future {{< br >}}{{< br >}} Benjamin's Aura {{< br >}}{{< br >}} Beyond Symbolism: Circulating Objects, Found Objects {{< br >}}{{< br >}}  | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Uncanny {{< br >}}{{< br >}} The Sublime {{< br >}}{{< br >}} Collage {{< br >}}{{< br >}} Irony {{< br >}}{{< br >}}  | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} From Irony to Sincerity?: Structure and Trajectory {{< br >}}{{< br >}} Storms, Circulating Systems, and Flickering Lights {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | Nature in the City | &nbsp; |
-| 24 | Re-Reading Day | Re-Reading Assignment #2 Due |
-| 25 | Presentation of Final Creative Projects | Creative Street Haunting Assignment Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Themes
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Haunting
+
+Exterior vs. Interior (Outside vs. Inside)
+
+Escape vs. Entrance
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Flaneur
+
+Close Reading, Slow Reading
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Man of the Crowd / Man of the World
+
+The Presence of the Past / Palimpsests
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Panopticism
+
+Metonymy
+
+Asyndeton
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Literary Snow and Rain Days
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Saturday_ and _Mrs. Dalloway_: A Tale of Two Openings
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Post 9/11 and Trauma Ethics
+
+Failures, Triumphs, and Limits of the Imagination
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Security and Invasion
+
+Psychological and Architextural Interiority
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Brain/Mind/City: Networks and Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Re-Reading Day
+{{< tdclose >}}
+{{< tdopen >}}
+Re-Reading Assignment #1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Geography and Representation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Haunting and Estrangement
+{{< tdclose >}}
+{{< tdopen >}}
+Paper #1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Defamiliarization
+
+Intersectionality: Race, Class, and Gender
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Vantage Points
+
+Race and Space
+
+Race and Representation
+
+The Uses of Genre
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[MIT Senseable City Lab](http://senseable.mit.edu/) Class Visit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Love Stories and Romance Plots
+
+Home, Homeland, and Homecoming
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Windows
+
+Stereoscopic
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Frames, Windows, and Cosmopolitanism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Inclusion and Exclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Paper #2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Glitches, Cuts, Tears, and Splices
+
+A World Re-Arranged
+
+Back to the Future
+
+Benjamin's Aura
+
+Beyond Symbolism: Circulating Objects, Found Objects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Uncanny
+
+The Sublime
+
+Collage
+
+Irony
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+From Irony to Sincerity?: Structure and Trajectory
+
+Storms, Circulating Systems, and Flickering Lights
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Nature in the City
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Re-Reading Day
+{{< tdclose >}}
+{{< tdopen >}}
+Re-Reading Assignment #2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of Final Creative Projects
+{{< tdclose >}}
+{{< tdopen >}}
+Creative Street Haunting Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

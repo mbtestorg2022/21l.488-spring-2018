@@ -49,12 +49,57 @@ Chaudhuri, Amit. _Calcutta_. Knopf, 2013. ISBN: 9780307270245.
 Grading
 -------
 
-| Assignment | Percentage |
-| --- | --- |
-| Analytical Papers | 55% |
-| Creative Street Haunting Assignment | 20% |
-| Attendance & Participation | 15% |
-| Re-Reading Assignments | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignment
+{{< thclose >}}
+{{< thopen >}}
+Percentage
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analytical Papers
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Creative Street Haunting Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance & Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Re-Reading Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Analytical Papers: 55%
 
